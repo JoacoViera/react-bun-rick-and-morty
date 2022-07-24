@@ -1,12 +1,13 @@
 # Rick & Morty SPA
 
-Test project using [bun](https://bun.sh/).
-bun version: 0.1.5 (beta)
+Test project using React and [Bun](https://bun.sh/) runtime.
+
+Bun version: 0.1.5 (beta)
 
 ## Stack
 
 - React
-- bun
+- Bun
 
 ## Installing
 
