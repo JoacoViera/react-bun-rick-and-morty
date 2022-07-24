@@ -10,7 +10,6 @@ function App() {
     const response = await fetch(`https://rickandmortyapi.com/api/character/?page=${page}`);
     const data = await response.json()
     setData(data.results)
-    console.log(data.results);
     setLoading(false)
   }
 

@@ -1,24 +1,23 @@
-# React with Bun runtime
+# Rick & Morty SPA
 
-This is a React project bootstrapped with [bun](https://bun.sh/).
+Test project using [bun](https://bun.sh/).
+bun version: 0.1.5 (beta)
 
-## Getting Started
+## Stack
 
-### Cloning the repo
+- React
+- bun
 
-```sh
-bun create react ./react-bun-app
+## Installing
+
+```bash
+git clone https://github.com/JoacoViera/react-bun-rick-and-morty.git
+cd react-bun-rick-and-morty
+bun install
 ```
 
-### Development
+## Run project locally
 
-First, run the development server.
-
-```
+```bash
 bun dev
 ```
-
-Open http://localhost:3000 with your browser to see the result.
-
-You can start editing the page by modifying src/App.jsx. The page auto-updates as you edit the file.
-
