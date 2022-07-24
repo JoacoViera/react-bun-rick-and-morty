@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ce348054.css",
-    "main.js": "/static/js/main.a209ac28.js",
-    "static/js/787.acb82853.chunk.js": "/static/js/787.acb82853.chunk.js",
-    "index.html": "/index.html",
-    "main.ce348054.css.map": "/static/css/main.ce348054.css.map",
-    "main.a209ac28.js.map": "/static/js/main.a209ac28.js.map",
-    "787.acb82853.chunk.js.map": "/static/js/787.acb82853.chunk.js.map"
+    "main.css": "/react-bun-rick-and-morty/static/css/main.ce348054.css",
+    "main.js": "/react-bun-rick-and-morty/static/js/main.ff76fcce.js",
+    "static/js/787.acb82853.chunk.js": "/react-bun-rick-and-morty/static/js/787.acb82853.chunk.js",
+    "index.html": "/react-bun-rick-and-morty/index.html",
+    "main.ce348054.css.map": "/react-bun-rick-and-morty/static/css/main.ce348054.css.map",
+    "main.ff76fcce.js.map": "/react-bun-rick-and-morty/static/js/main.ff76fcce.js.map",
+    "787.acb82853.chunk.js.map": "/react-bun-rick-and-morty/static/js/787.acb82853.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ce348054.css",
-    "static/js/main.a209ac28.js"
+    "static/js/main.ff76fcce.js"
   ]
 }
